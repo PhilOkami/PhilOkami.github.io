@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexo Theme Cupertino
 
 The Hexo Blog Theme Cupertino
@@ -23,3 +24,6 @@ theme: cupertino
 
 - [How to edit `_config.yml`?](https://hexo.io/docs/configuration)
 - [How to edit `themes/cupertino/_config.yml`?](./configuration.md)
+=======
+This is my page.
+>>>>>>> parent of 33b1bb0... Update README.md
